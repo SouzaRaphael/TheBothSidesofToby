@@ -1,0 +1,43 @@
+.character
+{
+	position:absolute;
+	width:200px;
+	height:550px;
+	right:100px;
+	bottom:10px;
+	background-repeat:no-repeat;
+	background-position: bottom left;
+}
+
+#container[character="alice"] .character
+{
+	left:100px;
+}
+
+#container[character="narrador"] #characterName
+{
+	color: rgb(128, 232, 255);
+}
+#container[character="raquel"] #characterName
+{
+	color: rgb(158, 0, 158);
+}
+#container[character="bruno"] #characterName
+{
+	color: rgb(0, 141, 0);
+}
+#container[character="mae"] #characterName
+{
+	color: rgb(150, 150, 150);
+}
+#container[character="pai"] #characterName
+{
+	color: whitesmoke;
+}#container[character="depersona"] #characterName
+{
+	color: darkblue;
+}
+#container[character="personiaca"] #characterName
+{
+	color: rgb(255, 34, 34);
+}

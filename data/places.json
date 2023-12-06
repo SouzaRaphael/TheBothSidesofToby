@@ -1,0 +1,41 @@
+{
+	"quarto" : {
+		"name":"Quarto",
+		"image": "img/Quarto.png"
+	},
+	
+	"cozinha" : {
+		"name":"Cozinha",
+		"image":"img/Cozinha.jpg"
+	},
+
+	"rua" : {
+		"name":"Rua",
+		"image":"img/Rua.jpg"
+	},
+	
+	"entrada" : {
+		"name":"Entrada da Escola",
+		"image":"img/EntradaEscola.jpg"
+	},
+
+	"corredor" : {
+		"name":"Corredor da Escola",
+		"image":"img/CorredorEscola.jpg"
+	},
+
+	"saladeaula" : {
+		"name":"Sala de Aula",
+		"image":"img/Cozinha2.jpg"
+	},
+
+	"festa" : {
+		"name":"A festa",
+		"image":"img/Cozinha2.jpg"
+	},
+
+	"quartohospital" : {
+		"name":"O hospital",
+		"image":"img/Cozinha2.jpg"
+	}
+}

@@ -1,0 +1,50 @@
+#choices
+{
+	position:absolute;
+	bottom:0px;
+	padding: 2% 3% 2% 3%;
+	width: 94%;
+	left:0px;
+	border-top:1px solid rgba(255,255,255, 0.6);
+	background:rgba(0,0,0,0.8);
+}
+.choice
+{
+	font-family: 'inter';
+	cursor:pointer;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	padding: 5px;
+	color:rgb(190,190,190);
+	transition: 0.2s;
+}
+
+#characterName
+{
+	font-family: 'crafty girls';
+	text-align:center;
+	color:rgb(190,190,190);
+	font-size:22px;
+	text-shadow:2px 2px 3px black;
+	margin-bottom: 1px;
+}
+#placeName
+{
+	position:absolute;
+	top:-1px;
+	left:6px;
+	font-family: 'crafty girls';
+	color:#cccccc;
+	padding:3px 20px;
+	border:1px solid rgba(255,255,255, 0.6);
+	background:rgba(0,0,0,0.8);
+}
+.choice:hover
+{
+	background:rgba(255,255,255,0.1);
+	color:white;
+}

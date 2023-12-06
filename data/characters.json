@@ -1,0 +1,85 @@
+{
+  "default":{
+    "poses":{
+    },
+    "name":""
+  },
+
+  "narrador":{
+    "poses":{
+    },
+    "name":"Narrador"
+  },
+
+  "toby":{
+    "poses":{
+      "default":"img/Tpadrao.png",
+      "happy":"img/Tfeliz.png",
+      "doubt":"img/Tduvida.png",
+      "worried":"img/Tpreocupado.png",
+      "sad":"img/Ttriste.png",
+      "angry":"img/Tbravo.png"
+    },
+    "name":"Toby"
+  },
+
+  "raquel":{
+    "poses":{
+      "default":"img/Rpadrão.png",
+      "happy":"img/Rfeliz.png",
+      "sad":"img/Rtriste.png",
+      "confused":"img/Rconfusa.png",
+      "mocking":"img/Rdebochada.png",
+      "angry":"img/Rbrava.png"
+    },
+    "name":"Raquel"
+  },
+
+  "bruno":{
+    "poses":{
+      "default":"img/Bpadrão.png",
+      "happy":"img/Bfeliz.png",
+      "sad":"img/Btriste.png",
+      "confused":"img/Bconfuso.png",
+      "worried":"img/Bpreocupado.png",
+      "angry":"img/Bbravo.png"
+    },
+    "name":"Bruno"
+  },
+
+  "mae":{
+    "poses":{
+      "default":"img/Mpadrão.png",
+      "sad":"img/Mtriste.png",
+      "confused":"img/Mconfusa.png",
+      "disappointed":"img/Mdecepcionada.png",
+      "happy":"img/Mfeliz.png"
+    },
+    "name":"Mãe"
+  },
+
+  "pai":{
+    "poses":{
+      "default":"img/Ppadrão.png",
+      "sad":"img/Ptriste.png",
+      "angry":"img/Pbravo.png",
+      "disappointed":"img/Pdecepcionado.png",
+      "happy":"img/Pfeliz.png"
+    },
+    "name":"Pai"
+  },
+
+  "depersona":{
+    "poses":{
+      "default":"img/Sdepressivo.png"
+    },
+    "name":"Depersona"
+  },
+
+  "personiaca":{
+    "poses":{
+      "default":"img/Smaniaco.png"
+    },
+    "name":"Personíaca"
+  }
+}
