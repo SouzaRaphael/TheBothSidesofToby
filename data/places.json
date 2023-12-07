@@ -26,16 +26,26 @@
 
 	"saladeaula" : {
 		"name":"Sala de Aula",
-		"image":"img/Cozinha2.jpg"
+		"image":"img/SaladeAula.jpg"
 	},
 
 	"festa" : {
 		"name":"A festa",
-		"image":"img/Cozinha2.jpg"
+		"image":"img/Festa.jpg"
 	},
 
 	"quartohospital" : {
 		"name":"O hospital",
-		"image":"img/Cozinha2.jpg"
+		"image":"img/QuartoHospital.jpg"
+	},
+
+	"saladotecnico" : {
+		"name":"Sala de Robótica",
+		"image":"img/SaladoTecnico.jpg"
+	},
+
+	"..." : {
+		"name":"???",
+		"image":""
 	}
 }

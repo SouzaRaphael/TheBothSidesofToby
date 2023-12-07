@@ -130,3 +130,11 @@ img {
 		display: none;
 	}
 }
+
+@media (max-width: 1650px){
+	@media (max-height: 800px) {
+		.text {
+			display: none;
+		}
+	}
+}

@@ -41,3 +41,7 @@
 {
 	color: rgb(255, 34, 34);
 }
+#container[character="professor"] #characterName
+{
+	color: orange;
+}

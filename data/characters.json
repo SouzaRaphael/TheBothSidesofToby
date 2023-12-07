@@ -5,6 +5,12 @@
     "name":""
   },
 
+  "professor":{
+    "poses":{
+    },
+    "name":"Professor"
+  },
+
   "narrador":{
     "poses":{
     },
