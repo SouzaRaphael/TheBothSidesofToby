@@ -219,7 +219,7 @@ var characters =
 	{
 		"title": "consequenciaroupa",
 		"tags": "",
-		"body": "{{raquel,confused}}Nossa, Toby, que roupa é essa?\n<<number depressivo + 1>>\n{{toby,angry}}Oi pra você também, Raquel.\n{{bruno,worried}}Que isso, Raquel, deixa o garoto se vestir.\n{{raquel,angry}}Ah, cala a boca Bruno.\n[[{{toby,happy}}Eai, Bruno|escolhaespelho]]"
+		"body": "{{raquel,confused}}Nossa, Toby, que roupa é essa?\n<<number depressivo + 1>>\n{{toby,angry}}Oi pra você também, Raquel.\n{{bruno,worried}}Que isso, Raquel, deixa o garoto se vestir.\n{{raquel,angry}}Ah, cala a boca Bruno.\n[[{{toby,happy}}Eai, Bruno.|escolhaespelho]]"
 	},
 
 	{
